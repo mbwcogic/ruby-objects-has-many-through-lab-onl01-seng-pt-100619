@@ -22,4 +22,3 @@ class Artist
     songs.map(&:genre)
   end
 end
-end
